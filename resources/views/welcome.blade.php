@@ -153,10 +153,10 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
         <div class="row section-title">
           <div class="col-sm-8 col-sm-offset-2">
             <h1>Arbot Robo-advisory</h1>
-            <h6>(Version 1.8 Beta)</h6>
+            <h6>(Version 2.0 Beta)</h6>
             <h4 style="line-height: 1.5;">Investment Robo-Advisory that uses quantitative analysis to recommend you the most profitable with low risk trading
               opportunities in cryptocurrencies.</h4>
-            <a href="https://arbototem.firebaseapp.com/" class="btn btn-primary" target="_blank"> Try Now</a>
+            <a href="http://bitotemx.cryptovation.co/" class="btn btn-primary" target="_blank"> Try Now</a>
           </div>
         </div>
       </div>
@@ -646,6 +646,20 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
                            
                           </div>
                         </div>
+
+                          <div class="col-sm-2" >
+                      <div class="instructor">
+                        <div class="instructor-image">
+                          <img src="images/others/Eric.png" alt="" />
+                        </div>
+                        <h4>
+                          Eric Huang
+                        </h4>
+                        <h6>
+                        Founder & CEO 
+                        </h6>
+                      </div>
+                    </div>
                        
                     <div class="col-sm-2" >
                       <div class="instructor">
@@ -656,23 +670,11 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
                           Aaron Chen
                         </h4>
                         <h6>
-                          Founder & CEO
+                          Co-founder & CTO
                         </h6>
                       </div>
                     </div>
-                    <div class="col-sm-2" >
-                      <div class="instructor">
-                        <div class="instructor-image">
-                          <img src="images/others/Eric.png" alt="" />
-                        </div>
-                        <h4>
-                          Eric Huang
-                        </h4>
-                        <h6>
-                          Co-founder 
-                        </h6>
-                      </div>
-                    </div>
+                  
                     <div class="col-sm-2" >
                       <div class="instructor">
                         <div class="instructor-image">
@@ -682,7 +684,7 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
                           Kevin Liu
                         </h4>
                         <h6>
-                          Co-founder 
+                          Co-founder & Head Engineer
                         </h6>
                       </div>
                     </div>
@@ -718,7 +720,7 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
                           Jianan Jiang
                         </h4>
                         <h6>
-                          Business Development Advisor
+                        Technical Advisor
                         </h6>
                       </div>
                     </div>
@@ -731,7 +733,7 @@ __/\\\\\\\\\\\\\_____/\\\\\\\\\\\___/\\\\\\\\\\\\\\\________/\\\\\________/\\\\\
                           Pondet Ananchai
                         </h4>
                         <h6>
-                          Technical Advisor
+                          Strategy Advisor
                         </h6>
                       </div>
                     </div>
